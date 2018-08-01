@@ -1,0 +1,41 @@
+.row {   
+    background-color: black;
+    color: green;
+    display: flex;
+    justify-content: space-around;
+}
+
+.mid {
+    background-color: black;
+    color: green;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    font-size: 200%;
+}
+.aboutme{
+    border:1px solid green;   
+}
+
+body {
+    background-image: url("https://thumbs.gfycat.com/DismalShrillCaimanlizard-size_restricted.gif");
+}
+
+button {
+    background-color: black;
+    color: green;
+    font-size: 150%;
+}
+
+.headshot {
+    width: 10%;
+    margin: 5%;
+}
+
+#myname {
+    margin: 2%;
+}
+
+#quote {
+    margin: 2%;
+}
